@@ -1,0 +1,230 @@
+{
+  "groups": [
+    {
+      "groupId": 0,
+      "records": [
+        {
+          "tsid": "lcRfTzshCQfKeOMQJrG",
+          "dataSetName": "CookBank.Lacourse.2003",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRxRdvCkJdrPOtxnOo",
+          "dataSetName": "CookBank.Lacourse.2003",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRQy4QFgcsadteZQEp",
+          "dataSetName": "CookBank.Lacourse.2003",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcR4hWYURE5ozVZ3JvM",
+          "dataSetName": "CookBank.Lacourse.2003",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRpPRuTebZNXqohpXf",
+          "dataSetName": "CookBank.Lacourse.2003",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRwY3WlC8ZUvYPRsD1",
+          "dataSetName": "CookBank.Lacourse.2003",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRWfshub2yBZfo9WN5",
+          "dataSetName": "CookBank.Lacourse.2003",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRSTelvvkYJycYcMUk",
+          "dataSetName": "CookBank.Lacourse.2003",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 1,
+      "records": [
+        {
+          "tsid": "lcRxjcgrcBZGDHCNGjL",
+          "dataSetName": "DogfishBank.Lacourse.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRKO3C6sa1p4ymQcxY",
+          "dataSetName": "DogfishBank.Lacourse.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRQ7sf4vRb9GAtC6EP",
+          "dataSetName": "DogfishBank.Lacourse.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRwZXWOmNaTr3SDWJv",
+          "dataSetName": "DogfishBank.Lacourse.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRPQRGeb7VscqTMT1o",
+          "dataSetName": "DogfishBank.Lacourse.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRecfwNGadKLLNnB9V",
+          "dataSetName": "DogfishBank.Lacourse.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRJGdFQh7z80Y9sYNW",
+          "dataSetName": "DogfishBank.Lacourse.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRpuXsyOBjpOF13bSs",
+          "dataSetName": "DogfishBank.Lacourse.2005",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 2,
+      "records": [
+        {
+          "tsid": "lcRLRYyq1Qd8qgjUd4g",
+          "dataSetName": "LoganInlet.LaCourse.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRh9sGaFA47Rd4kPHJ",
+          "dataSetName": "LoganInlet.LaCourse.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRJIH4ZVxmc8Y35hjS",
+          "dataSetName": "LoganInlet.LaCourse.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRWOLZEBa2gfnl9I13",
+          "dataSetName": "LoganInlet.LaCourse.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRei1YAtnAgD1g6zcM",
+          "dataSetName": "LoganInlet.LaCourse.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRdHYkoDvE6FfBsr8U",
+          "dataSetName": "LoganInlet.LaCourse.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRQCpUD2LS5TSAbkk9",
+          "dataSetName": "LoganInlet.LaCourse.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRc9ZiFpVYdSvxRicf",
+          "dataSetName": "LoganInlet.LaCourse.2005",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 3,
+      "records": [
+        {
+          "tsid": "T2L_ODP_893_d18o_pachyderma_SST_from_d18o_pachyderma",
+          "dataSetName": "ODP_893",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRHUgZqgQVQA6ErsDm",
+          "dataSetName": "ODPHole893A.Anderson.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRRLWBBdChgF5G4by5",
+          "dataSetName": "ODPHole893A.Anderson.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRvc8gRlbk9BfNKdnB",
+          "dataSetName": "ODPHole893A.Anderson.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRluR9SiVxL0SEPxiB",
+          "dataSetName": "ODPHole893A.Anderson.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRMp4SMybvMilMmAvs",
+          "dataSetName": "ODPHole893A.Anderson.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRFcM9yx5aOgT6RXV2",
+          "dataSetName": "ODPHole893A.Anderson.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcR8Gytt1QaReoRgnYG",
+          "dataSetName": "ODPHole893A.Anderson.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcR3oyqYogKVNZYM63u",
+          "dataSetName": "ODPHole893A.Anderson.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "T2L_ODP_893_d18o_bulloides_SST_from_d18o_bulloides",
+          "dataSetName": "ODP_893",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 4,
+      "records": [
+        {
+          "tsid": "T2L_PAR87A_10_d18o_bulloides_SST_from_d18o_bulloides",
+          "dataSetName": "PAR87A_10",
+          "decision": "keep"
+        },
+        {
+          "tsid": "T2L_PAR87A_10_d18o_pachyderma_SST_from_d18o_pachyderma",
+          "dataSetName": "PAR87A_10",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 5,
+      "records": [
+        {
+          "tsid": "T2L_W8709A_8PC_uk37_SST_from_uk37",
+          "dataSetName": "W8709A_8PC",
+          "decision": "keep"
+        },
+        {
+          "tsid": "T2L_W8709A_8TC_uk37_SST_from_uk37",
+          "dataSetName": "W8709A_8TC",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    }
+  ]
+}

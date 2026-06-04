@@ -1,0 +1,80 @@
+# Variable filter decisions from the Presto data cleaning page.
+# Generated automatically when the user clicks Continue.
+#
+# thickness:annual     = varve thickness rows with median resolution <= 1 yr
+# thickness:nonannual  = all other thickness rows
+#
+excluded_variable_keys:
+  - age
+  - year
+  - depth
+  - depthtop
+  - depthbottom
+  - juliandate
+  - duration
+  - uncertainty
+  - uncertaintyhigh
+  - uncertaintylow
+  - uncertainty1s
+  - uncertainty2s
+  - uncertaintyhigh95
+  - uncertaintylow95
+  - arstan
+  - rbar
+  - eps
+  - correlationcoefficient
+  - segmentlength
+  - samplecount
+  - residualchronology
+  - correction
+  - sampleid
+  - core
+  - notes
+  - hashiatus
+  - hasgap
+  - composite
+  - needstobechanged
+  - count
+  - pc1
+  - cca1
+  - thickness:nonannual
+  - numberofsamples
+  - standarddeviation
+  - standarderror
+included_variable_keys:
+  - temperature
+excluded_tsids_by_variable:
+  uncertainty:
+    - lcRiv7GyNu7NzgLiCgJ
+    - lcRtrbYY5bMAAIzTI81
+    - lcRLSMTnFd3gWBEMed6
+    - lcRbTPnuqKSS8anbMki
+    - lcRceCyIS6Zko0VeJfM
+    - lcRrMqyQSCXUoDM1Szw
+    - lcRjs7fb7jd2RS0I4Hk
+    - lcR8UnAqny6WwrWjgPx
+    - lcRJRnSzM0vks1rB73o
+    - lcRqu1g3xgqyzie88PZ
+    - lcRVNoA6EBWHhqYFMD0
+    - lcR9X5bPuz9VlMn8fti
+    - lcRwPZe4C8fUhul10P0
+    - lcRNdC0h6K8CYDvMFmJ
+    - lcRsi6hFb9wqxJytujW
+    - lcRWRRm0DW6PPXmTxZ8
+    - lcRy640Ek7f8Z8Axo34
+    - lcRXkIr2zlxhUOM1If2
+    - lcRDH09k6AzvY6mnmYH
+    - lcR8oZmgHiOmMtXEnPa
+    - lcRfV4psahd59bqRN5g
+    - lcREoxhj6Mu1cxD5IAI
+    - lcRndO7OyVpVFwxFS2F
+    - lcRh2IvSPnqmgFx9131
+    - lcRfU8QqaUFiStmuyxg
+    - lcRitSG6c33sHDI9UVE
+    - lcR3DGmIt6KFbLDOU5K
+    - lcRdoVhIQAoZ0pJDsfz
+    - lcR4n1dnFw4MPNrnrQX
+    - lcRvJjN94jBkFHTZGa9
+    - lcRayUD7P2WQ3SamG7I
+    - lcRxgfMWhb83Mh6PIHr
+excluded_tsid_count: 32
